@@ -86,7 +86,7 @@ A Python script that triggers a Jenkins pipeline and sends the build status to a
 ## How to Clone This Repository
 1. Clone the repository using Git:
    ```bash
-   git clone https://github.com/Sangamesh080/Python-projects.git
+   git clone https://github.com/kumat1982/Python-projects.git
    ```
 2. Navigate to the project directory:
    ```bash
